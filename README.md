@@ -1,12 +1,2 @@
-# Student-Academic-Performance-Prediction
-It is machine learning model used to predict student's performance.
-
-## Algorithms Used:
-* SVM
-* Neural Networks
-
-## Description:
-
-* The dataset is taken from Kaggle.
-* Implementation is done after refering to similar research papers.
-* SVM is used to try and improve the results found from Neural networks.
+# Academic-Performance-Prediction
+A machine learning model used to predict student's performance based on factors such as financial condition and demographics using Support Vector Machine (SVM) and Artificial Neural Network (ANN).
